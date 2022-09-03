@@ -101,10 +101,10 @@ body {
   background-size: cover;
   border-radius: 50%;
   border: solid 3px #2ca6a2;
-  opacity: 0;
+  opacity: .99;
 }
 
 .MyPic:hover {
-  opacity: 0;
+  opacity: 1;
 }
 /*# sourceMappingURL=style.css.map */
