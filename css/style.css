@@ -101,7 +101,7 @@ body {
   background-size: cover;
   border-radius: 50%;
   border: solid 3px #2ca6a2;
-  opacity: .95;
+  opacity: 0;
 }
 
 .MyPic:hover {
